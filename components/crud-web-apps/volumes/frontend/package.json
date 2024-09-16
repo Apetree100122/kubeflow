@@ -45,7 +45,7 @@
     "monaco-editor": "^0.33.0",
     "raw-loader": "^4.0.0",
     "rxjs": "~6.6.7",
-    "tslib": "^2.0.0",
+    "tslib": "^2.6.2",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
